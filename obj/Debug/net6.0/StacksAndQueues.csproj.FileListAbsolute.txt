@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.exe
+C:\Users\prati\source\repos\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.deps.json
+C:\Users\prati\source\repos\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.runtimeconfig.json
+C:\Users\prati\source\repos\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.dll
+C:\Users\prati\source\repos\StacksAndQueues\bin\Debug\net6.0\ref\StacksAndQueues.dll
+C:\Users\prati\source\repos\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.pdb
+C:\Users\prati\source\repos\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.AssemblyInfo.cs
+C:\Users\prati\source\repos\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.dll
+C:\Users\prati\source\repos\StacksAndQueues\obj\Debug\net6.0\ref\StacksAndQueues.dll
+C:\Users\prati\source\repos\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.pdb
+C:\Users\prati\source\repos\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.genruntimeconfig.cache
